@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Thiết kế nội thất",
+        "price": 500000,
+        "desc": "Tư vấn và bản vẽ chi tiết cho từng không gian."
+    },
+    {
+        "name": "Thi công trọn gói",
+        "price": 4000000,
+        "desc": "Vật liệu cao cấp, bảo hành 3 năm, thi công nhanh gọn."
+    },
+    {
+        "name": "Trang trí nhà ở",
+        "price": 0,
+        "desc": "Liên hệ để báo giá theo quy mô và phong cách."
+    }
+]
